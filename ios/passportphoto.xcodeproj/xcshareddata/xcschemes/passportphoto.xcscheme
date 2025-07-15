@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "houke.app"
-               BlueprintName = "houke"
-               ReferencedContainer = "container:houke.xcodeproj">
+               BuildableName = "passportphoto.app"
+               BlueprintName = "passportphoto"
+               ReferencedContainer = "container:passportphoto.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "houkeTests.xctest"
-               BlueprintName = "houkeTests"
-               ReferencedContainer = "container:houke.xcodeproj">
+               BuildableName = "passportphotoTests.xctest"
+               BlueprintName = "passportphotoTests"
+               ReferencedContainer = "container:passportphoto.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "houke.app"
-            BlueprintName = "houke"
-            ReferencedContainer = "container:houke.xcodeproj">
+            BuildableName = "passportphoto.app"
+            BlueprintName = "passportphoto"
+            ReferencedContainer = "container:passportphoto.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "houke.app"
-            BlueprintName = "houke"
-            ReferencedContainer = "container:houke.xcodeproj">
+            BuildableName = "passportphoto.app"
+            BlueprintName = "passportphoto"
+            ReferencedContainer = "container:passportphoto.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

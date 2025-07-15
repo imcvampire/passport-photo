@@ -1,4 +1,4 @@
-package com.anonymous.houke
+package vn.id.qa.passportphoto
 
 import android.app.Application
 import android.content.res.Configuration

@@ -1,4 +1,4 @@
-package com.anonymous.houke
+package vn.id.qa.passportphoto
 import expo.modules.splashscreen.SplashScreenManager
 
 import android.os.Build

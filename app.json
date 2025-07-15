@@ -1,23 +1,23 @@
 {
   "expo": {
-    "name": "houke",
-    "slug": "houke",
+    "name": "passport-photo",
+    "slug": "passport-photo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "vn.id.qa.houke",
+    "scheme": "vn.id.qa.passportphoto",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "vn.id.qa.houke"
+      "bundleIdentifier": "vn.id.qa.passportphoto"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "vn.id.qa.houke"
+      "package": "vn.id.qa.passportphoto"
     },
     "web": {
       "bundler": "metro",
@@ -33,6 +33,12 @@
           "imageWidth": 200,
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
+        }
+      ],
+      [
+        "react-native-vision-camera",
+        {
+          "cameraPermissionText": "$(PRODUCT_NAME) needs access to your Camera."
         }
       ]
     ],

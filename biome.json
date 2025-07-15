@@ -13,7 +13,8 @@
     "enabled": true,
     "indentStyle": "space",
     "lineWidth": 120,
-    "lineEnding": "lf"
+    "lineEnding": "lf",
+    "includes": ["**", "!dist/*", "!supabase/database.types.ts"]
   },
   "linter": {
     "enabled": true,
@@ -48,9 +49,12 @@
         "noUnsafeNegation": "error",
         "noVar": "error",
         "noWith": "error"
+      },
+      "style": {
+        "useNamingConvention": "error"
       }
     },
-    "includes": ["**", "!android/app/build", "!dist/*"]
+    "includes": ["**", "!android/app/build", "!dist/*", "!supabase/database.types.ts"]
   },
   "javascript": {
     "formatter": {

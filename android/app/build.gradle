@@ -87,9 +87,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace 'com.anonymous.houke'
+    namespace 'vn.id.qa.passportphoto'
     defaultConfig {
-        applicationId 'com.anonymous.houke'
+        applicationId 'vn.id.qa.passportphoto'
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
